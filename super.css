@@ -1,0 +1,33 @@
+#searchButton{
+    align-items: center;
+    margin: 0 auto;
+    display: block;
+    background-color: yellowgreen;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#newHeroButton{
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    display: block;
+    background-color: rgba(255, 255, 0, 0.455);
+}
+#heroImage{
+    text-align: center;
+}
+body {
+    background-color: rgba(76, 4, 18, 0.831);
+}
+#searchInput{
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    display: block;
+    background-color: burlywood;
+
+}
